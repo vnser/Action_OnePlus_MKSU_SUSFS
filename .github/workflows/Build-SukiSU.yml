@@ -53,6 +53,7 @@ on:
           - kalama
           - pineapple
           - sun
+          - makalu
       ANDROID_VERSION:
         type: choice
         description: "内核安卓版本"
